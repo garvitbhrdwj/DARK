@@ -1,2 +1,2 @@
 # DARK
-hello
+Beginning is the end.
